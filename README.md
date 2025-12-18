@@ -25,6 +25,6 @@ Evoluir constantemente na área de desenvolvimento, consolidando conhecimentos e
 ## 📫 Contato
 
 - GitHub: [https://github.com/gabrieljorda](https://github.com/gabrieljorda)
-- LinkedIn: [LinkedIn](https://br.linkedin.com/in/gabrielsilvaabreu?trk=people-guest_people_search-card)
-- Instagran : [Instagram](https://www.instagram.com/gabri7383/)
 - Email : gsiabreu@yahoo.com
+- [LinkedIn](https://br.linkedin.com/in/gabrielsilvaabreu?trk=people-guest_people_search-card)
+- [Instagram](https://www.instagram.com/gabri7383/)
