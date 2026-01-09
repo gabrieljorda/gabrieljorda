@@ -9,11 +9,11 @@
 
 - Python(Analise de Dados)
 - React-vite
-- HTML5
 - SQL
 - typescript
 - tailwindcss
 - Git & GitHub
+
 
 
 ## 🎯 Objetivo
